@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+  <title>Welcome to the PureMVC Startup Manager Demo!</title>
+  <sections>
+      <section id="1" label="Home">
+        <content>
+            <![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Quisque consequat. Nam ut leo <i>vitae metus vehicula</i> posuere. Nullam nunc. Vivamus nec ligula vel tortor molestie elementum. Integer faucibus elementum dolor. Nulla lorem. Quisque varius sodales mi. Nam tincidunt pede. Nam scelerisque nulla a nisl.</p>
+      <p>Vivamus nec ligula vel tortor molestie elementum. Nam ut leo vitae metus vehicula posuere. Nullam nunc. Vivamus nec ligula vel <b>tortor molestie elementum</b>. Integer faucibus elementum dolor. Nulla lorem. Quisque varius sodales mi. Nam tincidunt pede. Nam scelerisque nulla a nisl. Quisque consequat.</p>]]>
+        </content>
+      </section>
+  </sections>
+</site>
+
